@@ -1,0 +1,8 @@
+*.pdf
+/*_logs/
+/experiments/prefitted/
+/experiments/results/
+
+.idea/
+__pycache__/
+.ipynb_checkpoints/
